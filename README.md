@@ -1,18 +1,5 @@
-# ID223
-C++
-## Description of Assignement:
-
-welcome the player <br />
-set up the game  <br />
-    int health = 10, attack, block, turns = 0 <br />
-    seed the random number generator <br />
-start the loop <br /> 
-    add 1 to turns  <br />
-    start the encounter <br />
-        randomly generate numbers for attack (range = 0-4) and block (range = 0-4) <br />
-        if block is greater or equal to attack, successful block <br />
-        otherwise, subtract attack value from health. <br />
-keep looping while health is greater than zero and fewer than 4 turns have happened <br />
-
-if health is greater than 0, congratulate player <br />
-otherwise, tell the player they're dead. <br />
+# ID 223
+#C++
+Beginning C++ with Game Programming. < /br>
+This course enabled me to use C++ and the Standard Template Library to program text-based games and applications. < /br>
+The class also studied beginning procedural and object oriented programming using structured programming techniques to develop games and game applications.
