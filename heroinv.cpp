@@ -30,7 +30,7 @@ int main() {
     cout << "So what can you do to keep the blazing sun out of your eyes?\n";
     cin >> hikeInput;
 
-    items[7] = "";
+    items[7] = hikeInput;
 
     
     cout << "\nYou reach a point to take a break and want a typical 'picnic type' snack...So what is it that sounds perfect to eat right now?\n";
